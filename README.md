@@ -1,10 +1,5 @@
-Dear Sir,
-This is Toukir Rahman JOY. 
-I am a designer & coder lover. I am an active person, achievement oriented and in constant evolution because of my assigned jobs.
-
-I have hands on experience efficiently using  Photoshop, Illustrator, HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, Laravel, Codeigniter Framework. 
-
-Feel free to ask any query related my skills, I'm ready to give answer. 
+I'm Toukir Rahman. 
+I’m a Website application designer with a passion for creating inspiring and influential designs. I create such that users will experience something new and get the interface according to their convenience. I love the latest technology projects as it keeps updated on the latest trends. 
 Fiverr profile: www.fiverr.com/toukirjoy
 
 Thanks
